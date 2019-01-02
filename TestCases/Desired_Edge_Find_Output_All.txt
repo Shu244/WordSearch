@@ -1,0 +1,4 @@
+abcd 9 6 R
+abcd 0 9 L
+abcd 0 9 D
+abcd 8 9 U

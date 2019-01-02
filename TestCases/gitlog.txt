@@ -1,0 +1,215 @@
+commit 9427b0486f1d318fea2dea49df8fa9598e5b17f9
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Thu Oct 4 15:01:14 2018 -0400
+
+    Created test and word_search target
+
+commit ab80cfb2ad387b2b516b5cf8902fafac8b24ca04
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Tue Oct 2 21:04:39 2018 -0400
+
+    Fixed warning about comparing unsigned and signed integer.
+
+commit c39bda0d4fe357a36efce11ee62bbc75930be2e2
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Tue Oct 2 20:55:05 2018 -0400
+
+    Works when word is bigger than grid.
+
+commit 55527707eeabd09bbca40b8b5592b983f1299a50
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Tue Oct 2 17:20:28 2018 -0400
+
+    Fixed typo in Makefile
+
+commit 5a9ec339cc64fbca748d765b2ae3cd218a908b04
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Tue Oct 2 14:43:26 2018 -0400
+
+    Tested for 1x1 grid
+
+commit dcf7a6ece55b68a9566fe7152bb7e76ea6823488
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Tue Oct 2 12:08:41 2018 -0400
+
+    Added more test files and implemeneted them on test_search_functions.c
+
+commit f32f6e9a551fb580ca3bcbf84bd3fd169d4a62c8
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Mon Oct 1 20:02:10 2018 -0400
+
+    Account for situations where grid has more letters after newline.
+
+commit c8419574209fb50c368fb2154ccde47c93ba4552
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Mon Oct 1 19:22:31 2018 -0400
+
+    Fixed formatting of output
+
+commit 7a3055b1e9942d2d44f8922b73d63ceee5d3d662
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Mon Oct 1 19:03:29 2018 -0400
+
+    Outputs grid file failed to open when grid file cannot be openned.
+
+commit d0131d1d92f852b7957f8f45c1530c51493c4233
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Mon Oct 1 18:44:26 2018 -0400
+
+    fix leak problem
+
+commit 709d527bb600fb5a4fa214b68e1b52a2428ea8b1
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Mon Oct 1 18:32:13 2018 -0400
+
+    Final copy of hw3 folder
+
+commit b9cec323098b6bd7216ba36b997ea0fd1dcc0834
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Mon Oct 1 18:22:40 2018 -0400
+
+    making sure everything is up to date. Edited very little code in several files.
+
+commit f4ff4f2160f77b7ed838fca49834dc194156a707
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Mon Oct 1 18:12:07 2018 -0400
+
+    Adding all text files and source code used
+
+commit 33a807af6328068cb6a0cfac3804e26d57bdd0ee
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Mon Oct 1 18:11:03 2018 -0400
+
+    Fixed small bugs
+
+commit e9ae966c559a8f5e7247d8b7b2bccb31aff034f5
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Mon Oct 1 18:08:42 2018 -0400
+
+    Runs test executable and cleans directory
+
+commit 14571446642a07415ab37388df157ed23489e8c8
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Mon Oct 1 17:20:11 2018 -0400
+
+    Finished test_search_functions and added complementary files for hw3
+
+commit d0f6a972c4c4f5cbea4ef83781c976434d97a594
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Mon Oct 1 17:17:44 2018 -0400
+
+    Fixed bug in word_search and finished all functions in search_functions
+
+commit 0f59c5b03abaf63f96051d0df3d5c330bebb5493
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Mon Oct 1 16:41:48 2018 -0400
+
+    Finish find_left and find_right functions
+
+commit 29a470b81a87fc2b19db0c364a93474e8aff991e
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Sun Sep 30 18:14:53 2018 -0400
+
+    Found bug in main, need to fix
+
+commit 8e2321a02bf5f5e62481ef14f0a6eea58963d94f
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Sun Sep 30 16:15:44 2018 -0400
+
+    debugged main method, works properly
+
+commit fc8a60349db8c63aab5842cedd42ef6b9b56e0c5
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Sun Sep 30 15:47:42 2018 -0400
+
+    Added appropriate comments
+
+commit 30352fdda3d11169f0e55075076c26f6f524dbce
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Sun Sep 30 15:44:24 2018 -0400
+
+    Debugged Makefile
+
+commit 745599eea17d523a13a24210d5899d4c322ac42b
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Sun Sep 30 15:09:45 2018 -0400
+
+    Created Makefile
+
+commit 0db7f816aac8ff197afb6681d7f4fb885bdeee0a
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Tue Sep 18 10:16:27 2018 -0400
+
+    started ex3-1
+
+commit 3f6d57456708b8e99912127d06f041cfc9ab6887
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Sat Sep 15 00:36:24 2018 -0400
+
+    heavily tested with edge cases
+
+commit 95d2a4f613548f9d80cdb0625a05ed1b520220e4
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Fri Sep 14 14:51:15 2018 -0400
+
+    added missing brackets
+
+commit 59d89b5ec3f8941c6d9f543a3b2252c8ab4532fe
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Fri Sep 14 14:48:30 2018 -0400
+
+    works for all examples but has time dout error in gradescope
+
+commit 25a6cd00c4c5c75a9fb16890343faa5e1759b159
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Tue Sep 11 22:54:00 2018 -0400
+
+    compiles and works, but needs to be cleaned up and tested more
+
+commit b6bb4b2245d010d23e5a1992f4cc24c66a6974cf
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Tue Sep 11 21:05:12 2018 -0400
+
+    needs to debug for compile errors
+
+commit a5c983de2caee0fa9865d0ec557bb13b4d2581e8
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Mon Sep 10 21:31:58 2018 -0400
+
+    added newline to the end of String
+
+commit c87fe70c70ae5cfa338c3d3fb6f504d9c34aa6f2
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Sun Sep 9 12:20:12 2018 -0400
+
+    finished, all are tested
+
+commit dd509e6497d17e9d2d462e91240ac60ac0dffcca
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Sun Sep 9 12:11:51 2018 -0400
+
+    done for now, untested
+
+commit 974d1c432c1e5bf187b5d610c09639750265f022
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Sun Sep 9 12:02:38 2018 -0400
+
+    working gpa calculator
+
+commit 1a73808910cdf016819dfca1da82fb25dc0fcd26
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Fri Sep 7 02:42:01 2018 -0400
+
+    updated README
+
+commit cd03233a70cf884ba76dbe60c5eae93b6e042110
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Thu Sep 6 21:55:28 2018 -0400
+
+    created README
+
+commit b642f5d6c75a42ec09c5f35054c7927de6624d31
+Author: Shuhao Lai <slai16@jhu.edu>
+Date:   Thu Sep 6 14:09:50 2018 +0000
+
+    Initial commit
